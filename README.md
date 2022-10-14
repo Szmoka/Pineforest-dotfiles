@@ -6,20 +6,19 @@ This is a repository containing my dotfiles. These are intended for my personal 
 
 - OS: Arch
 - DE: KDE
-- WM: kwin + bismuth
-- Plasma theme: Graphite
-- GTK: Graphite
-- Colors: Pinecone
-- Bar: Latte
+- WM: kwin + [bismuth](https://github.com/Bismuth-Forge/bismuth)
+- Plasma theme: [Graphite](https://github.com/vinceliuice/Graphite-kde-theme)
+- GTK: [Graphite](https://github.com/vinceliuice/Graphite-gtk-theme)
+- Colors: [Pineforest](https://github.com/Szmoka/Pineforest)
 - Display Manager: SDDM
 - Shell:
-- Fonts: 
-- System Monitor: btop
-- Music: spotify with spicetify
-- Chat: Discord with BetterDiscord
+- Fonts: Iosevka + Fira Code
+- System Monitor: [btop](https://github.com/aristocratos/btop)
+- Music: spotify with [spicetify](https://github.com/spicetify/spicetify-cli)
+- Chat: Discord with [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
 - Fetch: Neofetch
 - Browser: Firefox
-  - Start Page: NightTab
+  - Start Page: [NightTab](https://github.com/zombieFox/nightTab)
   - Theme: firefox nordic theme
 - Other tweaks:
   - Terminal IBM Model M122 keyboard mapping
@@ -34,25 +33,21 @@ This is a repository containing my dotfiles. These are intended for my personal 
 
 - Application Style: Breeze
 - GTK Style: Graphite
-- Plasma Style: Graphite modified to follow system colors (with one exception)
-- Colors: Pinecone
+- Plasma Style: Graphite modified to follow system colors
+- Colors: Pineforest
 - Window Decorations: Graphite
-- Fonts:
+- Font: Iosevka
 - Icons: Newaita
 - Cursors: Future Dark
 - Splash Screen: None
 
-Most of this can be set via System Settings GUI. Tweaking was mostly making Graphite follow system colors and not it's on. Window Decorations used system collors immidetely but for Plasma Style to work it was necessary to replace 'colors' with my own version that contains only one color setting (workaround to get outlines in the same color as used in windows), rest is pulled from system colors.
+Most of this can be set via System Settings GUI. Tweaking was mostly making Graphite follow system colors and not its own. Window Decorations used system collors immidetely but for Plasma Style to work it was necessary to replace 'colors' with my own version that contains only one color setting (workaround to get outlines in the same color as used in windows), rest is pulled from system colors.
 
 Newaita icons were set to use mint folders.
-
-GTK theme for now stays unedited. Will update later.
 
 #### Bismuth & Kwin
 
 Due to me using terminal Model M122 keyboard that needs a converter to work with modern PC's some shortcuts use weird key mapping. Probably best to leave this one when using my dotfiles.
-
-### Latte
 
 ### Spotify
 
