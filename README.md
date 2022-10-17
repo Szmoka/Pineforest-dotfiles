@@ -11,7 +11,7 @@ This is a repository containing my dotfiles. These are intended for my personal 
 - GTK: [Graphite](https://github.com/vinceliuice/Graphite-gtk-theme)
 - Colors: [Pineforest](https://github.com/Szmoka/Pineforest)
 - Display Manager: SDDM
-- Shell:
+- Launcher: rofi + [theme](https://github.com/catppuccin/rofi/tree/main/deathemonic) by deathemonic
 - Fonts: Iosevka + Fira Code
 - System Monitor: [btop](https://github.com/aristocratos/btop)
 - Music: spotify with [spicetify](https://github.com/spicetify/spicetify-cli)
@@ -33,7 +33,7 @@ This is a repository containing my dotfiles. These are intended for my personal 
 
 - Application Style: Breeze
 - GTK Style: Graphite
-- Plasma Style: Graphite modified to follow system colors
+- Plasma Style: Graphite
 - Colors: Pineforest
 - Window Decorations: Graphite
 - Font: Iosevka
